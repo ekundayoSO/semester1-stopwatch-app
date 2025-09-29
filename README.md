@@ -10,8 +10,10 @@ This project demonstrates structuring a webpage, styling with CSS, and adding fu
 5. Responsive and centered layout.
 
 # Clone repository
+```bash
 git clone git@github.com/ekundayoSO/semester1-stopwatch-app.git
 cd semester1-stopwatch-app
+```
 
 # Project URL
 (Stopwatch url here)[]
