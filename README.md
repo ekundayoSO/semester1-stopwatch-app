@@ -16,4 +16,4 @@ cd semester1-stopwatch-app
 ```
 
 # Project URL
-(Stopwatch url here)[https://semester1-stopwatch-app.netlify.app/]
+[Stopwatch url here](https://semester1-stopwatch-app.netlify.app)
