@@ -1,5 +1,5 @@
 # Stopwatch App
-A simple Stopwatch Application built with HTML, CSS, and JavaScript.
+A simple Stopwatch Application built with HTML, vanilla CSS, and vanilla JavaScript.
 This project demonstrates structuring a webpage, styling with CSS, and adding functionality with JavaScript, including a dark/light mode toggle feature.
 
 # Features
@@ -14,6 +14,10 @@ This project demonstrates structuring a webpage, styling with CSS, and adding fu
 git clone git@github.com/ekundayoSO/semester1-stopwatch-app.git
 cd semester1-stopwatch-app
 ```
+
+# Project image
+<img src="images/stopwatch.png">
+
 
 # Project URL
 [Stopwatch url here](https://semester1-stopwatch-app.netlify.app)
